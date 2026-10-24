@@ -1,3 +1,4 @@
+# %% [code]
 import pandas as pd
 
 def loan_payment(p, rate, years):
